@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @albikghalela
-- 👀 I’m interested in python, java, node.js
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python
+- 🌱 I’m currently learning python, Azure Services, SQL
+- 💞️ I’m looking to collaborate on Data Scientist Role
 - 📫 How to reach me albikghalela2@gmail.com 
 
 <!---
